@@ -211,7 +211,7 @@ To enhance accessibility and user experience, I integrated all vital visual subs
 
 To facilitate seamless exploration, I curated a "Home" page within the dashboard, offering users quick access to navigate between different sections of the report. This intuitive design allows stakeholders to effortlessly access and digest the wealth of insights presented within the report, empowering informed decision-making and strategic planning.
 
-Below are snapshots of the Dashboard.
+Below are snapshots of the Dashboard. To access the interactive dashboard (the PowerBI file) Click -> https://github.com/Man-of-principle/Healthcare-Analysis-with-Power-BI/blob/main/HEALTH%20CASE%20STUDY.pbix
 
 ![Dashboard - Home](https://github.com/Man-of-principle/Healthcare-Analysis-with-Power-BI/assets/126421029/0bfd27c6-374a-476d-90e6-df2e236a348e)
 
